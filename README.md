@@ -50,7 +50,7 @@
 
 ## 📈 GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amrit-Acharya1&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
