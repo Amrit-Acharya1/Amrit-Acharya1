@@ -54,7 +54,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=torvalds&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amrit-Acharya1&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Connect With Me
 
