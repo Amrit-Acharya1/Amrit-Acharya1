@@ -85,3 +85,4 @@
   
 </div>
 
+<img src="https://raw.githubusercontent.com/Amrit-Acharya1/Amrit-Acharya1/output/snake.svg" alt="Snake animation" />
