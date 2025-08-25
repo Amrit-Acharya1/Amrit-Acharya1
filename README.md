@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 I'm a Web Developer
-- 🤞 Currently learning Web Socket and Redis
+- 🤞 Currently learning Web Socket and Redis, VPS
 - 🌱 I believe in lifelong learning - currently exploring everything!
 - 💼 Currently working on the Euro Paints Project
 - 👯 Looking to collaborate and grow as a developer
