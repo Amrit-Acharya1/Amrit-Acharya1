@@ -7,7 +7,7 @@
 - 🚀 I'm a Web Developer
 - 🤞 Currently learning Web Socket and Redis, VPS
 - 🌱 I believe in lifelong learning - currently exploring everything!
-- 💼 Currently working on the Euro Paints Project
+- 💼 Currently working on the SOA
 - 👯 Looking to collaborate and grow as a developer
 - 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: The taste of code is sweet and sour.
